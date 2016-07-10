@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+}
+
+#viewport {
+  min-width: 100%;
+  min-height: 100%;
+  margin: 0 auto;
+}
+
+#header {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#squares-wrapper {
+  width: 40%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.row {
+  font-size: 0;
+}
+.square {
+  margin: 0px;
+  padding: 0px;
+  border: 1px solid white;
+  background-color: black;
+  display: inline-block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  opacity: 1;
+}
+
+.black_square {
+  margin: 0px;
+  padding: 0px;
+  border: 1px solid white;
+  background-color: black;
+  display: inline-block;
+  position: relative;
+}

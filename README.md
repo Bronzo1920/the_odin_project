@@ -1,2 +1,2 @@
-# the_odin_project
-All projects from The Odin Project
+# The Odin Project repository
+All my projects from The Odin Project tutorial.
